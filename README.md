@@ -1,6 +1,6 @@
 # Shaiya Essentials
 
-A client-side repository dedicated to the [Shaiya Essentials](https://www.elitepvpers.com/forum/shaiya-pserver-guides-releases/5171510-release-shaiya-essentials.html) project.
+A client-side library dedicated to the [Shaiya Essentials](https://www.elitepvpers.com/forum/shaiya-pserver-guides-releases/5171510-release-shaiya-essentials.html) project.
 
 ## Environment
 
@@ -15,3 +15,5 @@ C++ 23
 [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x86.exe)
 
 [Microsoft DirectX SDK (June 2010)](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
+
+The DirectX SDK installer should create a system environment variable named `DXSDK_DIR` that specifies the installation directory.
